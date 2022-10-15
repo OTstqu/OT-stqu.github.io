@@ -1,2 +1,1 @@
-# Office-Templates-STQU
-
+# OT-stqu
